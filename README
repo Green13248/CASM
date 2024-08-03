@@ -1,7 +1,35 @@
-This is copyright
+Copyright 2024
 
-maybe I'll add some other stuff one day:
-  Syntax highlighting for an IDE
-  Debugger for an IDE (Likely not unless I want to sell something)
-  
-  
+About:
+
+CASM stands for something asm, it is a "compiler" for BISC machines and was written in c++
+
+How to use:
+
+Setup, ignore windows defender or whatever it's fine and safe.
+
+put CASM in the folder or desktop where your source code is:
+
+make a folder, example:
+Myproject:
+    CASM.exe
+    thing.txt
+
+You will be greeted with a ">" carat.
+
+Type h for help if you need it (It does not do anything)
+
+Type "bin" to compile your source code into something compiled.
+    
+Next, name your sourcecode file WITH the extention at the end (ex: thing.txt) (Write the .txt at the end)
+
+Name the file you want to be made with the .txt at the end (ex: compiled.txt)
+
+Myproject:
+    CASM.exe
+    thing.txt
+    compiled.txt
+
+
+
+enjoy your cool new BISC machine code file...
